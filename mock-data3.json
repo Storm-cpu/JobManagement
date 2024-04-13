@@ -1,0 +1,47 @@
+[
+    {
+        "name": "all",
+        "code": "tất cả",
+        "typeCode": "JOB_STATUS"
+    },
+    {
+        "name": "phỏng vấn",
+        "code": "interview",
+        "typeCode": "JOB_STATUS"
+    },
+    {
+        "name": "từ chối",
+        "code": "declined",
+        "typeCode": "JOB_STATUS"
+    },
+    {
+        "name": "đang chờ",
+        "code": "pending",
+        "typeCode": "JOB_STATUS"
+    },
+    {
+        "name": "tất cả",
+        "code": "all",
+        "typeCode": "JOB_TYPE"
+    },
+    {
+        "name": "toàn thời gian",
+        "code": "full-time",
+        "typeCode": "JOB_TYPE"
+    },
+    {
+        "name": "làm theo giờ",
+        "code": "part-time",
+        "typeCode": "JOB_TYPE"
+    },
+    {
+        "name": "làm từ xa",
+        "code": "remote",
+        "typeCode": "JOB_TYPE"
+    },
+    {
+        "name": "thực tập sinh",
+        "code": "internship",
+        "typeCode": "JOB_TYPE"
+    }
+]
